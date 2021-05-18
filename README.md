@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
+Here are some ideas to get you started
 
 - 🔭 I’m currently studying  on  3rd year eletronics and communications engineering
 - 🌱 I’m currently learning git & github by apssdc
@@ -11,4 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me:rakeshnadiminti238@gmail.com
 - 😄 Pronouns: continous learner and enthusastic to learn new things
 - ⚡ Fun fact: stay home and stay safe and wear a mask
-
